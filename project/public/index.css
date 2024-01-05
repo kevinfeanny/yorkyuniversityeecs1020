@@ -1,0 +1,120 @@
+.topnav {
+  background-color:  #B6D0E2;
+  overflow: hidden;
+  border: solid;
+  border-color: black;
+  border-width: 3px;
+  padding: 1%;
+  border-radius: 5%;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color:  #B6D0E2;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #536878;
+  color: white;
+}
+.heading {
+  border-bottom: solid;
+  border-color: black;
+  border-width: 3px;
+  padding: 3%;
+
+}
+  
+
+body{
+  background-color: #536878;
+  font-family:  TeX Gyre Adventor;
+  color:#c0c0c0;
+
+
+}
+footer{
+  border-color: black;
+  border-width: 3px;
+  padding: 3%;
+  background-color:  #B6D0E2;
+  border-radius: 5%;
+  color:black;
+
+}
+.bod{
+  border-bottom: solid;
+  border-color: black;
+  border-width: 3px;
+  padding: 14%;
+
+}
+button{
+  display:inline-block;
+  padding: 150px 200px;
+text-align: center;
+border-radius: 50%;
+background-color: #ffbcd9;
+border: dashed;
+border-color: black;
+border-width: 5px;
+font-size: 70px;
+font-weight: 3px;
+box-shadow: 5px 10px;
+}
+input{
+  box-sizing:border-box;
+  width:75px;
+  padding:10px;
+  border:0;
+  border-bottom: 1px solid black;
+}
+.butt2{
+  float: left;
+  padding: 25px 130px;
+  font-size: 25px;
+}
+
+.title {
+text-align:center;
+border-bottom: solid;
+border-color: black;
+border-width: 3px;
+padding: 3%;
+}
+img{
+  float: left;
+  text-wrap:wrap;
+text-align: center;
+border-radius: 50%;
+background-color: #ffbcd9;
+border: solid;
+border-color: black;
+border-width: 5px;
+font-size: 30px;
+font-weight: 3px;
+height: 150px;
+width: 150px;
+
+}
+p{
+  text-wrap: wrap;
+  
+  
+}
+.botbord{
+  border-bottom: solid black;
+  height: 300px;
+  width: fit-content;
+}
